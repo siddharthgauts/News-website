@@ -29,7 +29,7 @@ Checkout: https://news-website-peach.vercel.app/
 
 ## Contributing
 
-We welcome contributions! Feel free to submit bug reports, feature requests, or pull requests to help improve our project.
+ welcome contributions! Feel free to submit bug reports, feature requests, or pull requests to help improve our project.
 
 ## License
 
