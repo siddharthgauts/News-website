@@ -27,12 +27,6 @@ Checkout the WebApp: https://news-website-peach.vercel.app/
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
-## Contributing
-
- welcome contributions! Feel free to submit bug reports, feature requests, or pull requests to help improve our project.
-
-## License
-
 This project is licensed under the [MIT License](link-to-license-file).
 
 ## Contact
